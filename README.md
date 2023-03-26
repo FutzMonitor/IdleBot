@@ -41,7 +41,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * ![env](https://img.shields.io/badge/.env-%23ecd53f.svg?logo=dotenv&logoColor=%23333333&style=for-the-badge)
 * ![vscode](https://img.shields.io/badge/visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> --> 
 
 <!-- GETTING STARTED -->
 ## Getting Started
