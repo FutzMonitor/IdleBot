@@ -25,7 +25,6 @@ client.on('messageCreate', (message) => {
 client.on('interactionCreate', (interaction) => {
     if(!interaction.isCommand()) return;
 
-    console.log(interaction)
     if(interaction.commandName == "arithmetic"){
         const numOne = interaction.options.getNumber('first_number');
         const numTwo = interaction.options.getNumber('second_number');
